@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circus", "Circus\Circus.csproj", "{194864F9-9B3B-4021-82CA-9E969AF61F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircusUnitTest", "CircusUnitTest\CircusUnitTest.csproj", "{1FA8C886-B8C4-4B95-9191-DED98DC79D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{194864F9-9B3B-4021-82CA-9E969AF61F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194864F9-9B3B-4021-82CA-9E969AF61F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194864F9-9B3B-4021-82CA-9E969AF61F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194864F9-9B3B-4021-82CA-9E969AF61F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA8C886-B8C4-4B95-9191-DED98DC79D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA8C886-B8C4-4B95-9191-DED98DC79D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA8C886-B8C4-4B95-9191-DED98DC79D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA8C886-B8C4-4B95-9191-DED98DC79D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
